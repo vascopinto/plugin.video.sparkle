@@ -1,5 +1,6 @@
 
 streaming_subreddits = [
+{'name': 'Soccer', 'url': 'socceronreddit'},
 {'name': 'Soccer Streams', 'url': 'redditsoccer'},
 {'name': 'MMA Streams', 'url': 'MMAStreams'},
 {'name': 'NFL Streams', 'url': 'NFLStreams'},
